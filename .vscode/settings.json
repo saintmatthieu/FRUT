@@ -1,0 +1,7 @@
+{
+  "cmake.configureArgs": [
+    "-DCMAKE_INSTALL_PREFIX=/Users/matthieuh/git/github/saintmatthieu/Christophone/sub/github/saintmatthieu/FRUT/_deploy",
+    "-DJUCE_ROOT=/Users/matthieuh/git/github/saintmatthieu/Christophone/sub/github/saintmatthieu/juce"
+  ],
+  "cmake.buildDirectory": "${workspaceFolder}/build"
+}
